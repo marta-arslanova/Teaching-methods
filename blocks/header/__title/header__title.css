@@ -1,0 +1,10 @@
+.header__title {
+  position: absolute;
+  width: 730px;
+  margin: 0;
+  left: 64px;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 102px;
+  line-height: 96px;
+}

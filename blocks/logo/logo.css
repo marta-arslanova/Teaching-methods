@@ -1,0 +1,20 @@
+.logo {
+  position: absolute;
+  top: 30px;
+  left: 64px;
+  width: 183px;
+  height: 32px;
+  cursor: pointer;
+}
+
+.logo_place_footer {
+  top: 0px;
+  left: 0px;
+  height: 35px;
+  position: relative;
+}
+
+.logo:hover {
+  opacity: .7;
+  transition: all .2s;
+}
