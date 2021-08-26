@@ -2,5 +2,6 @@
   margin: 16px auto 0;
   text-align: center;
   line-height: 23px;
-  font-style: 18px;
+  font-size: 18px;
+  padding: 0;
 }
